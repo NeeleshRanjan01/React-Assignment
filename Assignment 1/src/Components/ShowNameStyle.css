@@ -1,0 +1,65 @@
+.firstDiv {
+    background-image: linear-gradient(rgb(246, 212, 218), rgb(186, 246, 186), rgb(246, 212, 218));
+    height: 780px;
+    width: 100%;
+    margin-top: -1.4%;
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 4px 3px cyan;
+}
+
+.button1 {
+    width: 270px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgb(140, 221, 221);
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 5%;
+    font-size: 15px;
+}
+
+.button1:hover {
+    background-color: aqua;
+}
+
+.button2 {
+    width: 270px;
+    height: 60px;
+    font-size: 15px;
+    border-radius: 30px;
+    background-color: rgb(140, 221, 221);
+}
+
+.button2:hover {
+    background-color: aqua;
+}
+
+.divOne {
+    position: absolute;
+    left: 230px;
+    top: 300px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    width: 450px;
+    height: 260px;
+    background-color: aqua;
+
+}
+
+.divTwo {
+    position: absolute;
+    left: 820px;
+    top: 300px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    width: 450px;
+    height: 260px;
+    background-color: rgb(206, 145, 156);
+
+}
